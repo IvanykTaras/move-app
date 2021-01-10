@@ -4,6 +4,9 @@ body {
 
 }
 
+h1{
+  margin-top: 0;
+}
 
 .Container {
   max-width: 60%;
@@ -119,4 +122,60 @@ body {
 .move-year {
   font-size: 16px;
   width: 35%;
+}
+
+
+.move-poster{
+  width: 400px;
+  height: 500px;
+  margin-right: 40px;
+  
+}
+
+.link{
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  background: blue;
+  display: block;
+  text-align: center;
+  border-radius: 15px;
+  width: 200px;
+  margin: 105px auto;
+  text-transform: uppercase;
+  font-size: 16px;
+  border: 3px solid white;
+  transition: all .25s linear;
+}
+
+.link:hover{
+  border: 3px solid blue;
+  color: blue;
+  background: white;
+}
+
+.d-flex{
+  display: flex;
+  padding: 60px 0;
+}
+
+
+.glow {
+  color: #444;
+  text-shadow: 
+    1px 0px 1px #ccc, 0px 1px 1px #eee, 
+    2px 1px 1px #ccc, 1px 2px 1px #eee,
+    3px 2px 1px #ccc, 2px 3px 1px #eee,
+    4px 3px 1px #ccc, 3px 4px 1px #eee,
+    5px 4px 1px #ccc, 4px 5px 1px #eee,
+    6px 5px 1px #ccc, 5px 6px 1px #eee,
+    7px 6px 1px #ccc;
+}
+
+.vamp {
+}
+.one-edge-shadow {
+	-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 20px 20px 20px -1px black;
 }
