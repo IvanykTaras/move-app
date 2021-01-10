@@ -10,9 +10,9 @@
 
 Made by: Taras Ivanyk .
 
-My email: <hanekava4@gmail.com>.
+My email: [<hanekava4@gmail.com>](hanekava4@gmail.com).
 
-My phone num.: [+48792967661](tel:+48792967661)
+My phone num.: +48792967661
 
 ---
 
