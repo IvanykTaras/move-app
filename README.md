@@ -8,6 +8,12 @@
 
 ---
 
+Made by: Taras Ivanyk
+My email: <hanekava4@gmail.com>
+My phone num.: <+48792967661>
+
+---
+
 Here is preview of application [link](http://move-app.cba.pl)
 
 
